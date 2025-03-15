@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - tower
+  - enemy
+  - menu canvas
+  - energy
+  - FatCat
+  - RussianBlue
+  - BasicCat
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Projectiles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: plots
+    uniqueID: 752725489
+    locked: 0
+  - name: projectiles
+    uniqueID: 1715807751
+    locked: 0
+  - name: towers
+    uniqueID: 2678002857
+    locked: 0
+  - name: enemies
+    uniqueID: 3405123009
+    locked: 0
+  - name: UI
+    uniqueID: 3731066145
+    locked: 0
